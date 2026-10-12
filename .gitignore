@@ -1,0 +1,13 @@
+# Dane uzytkownika - NIGDY nie trafiaja do repozytorium
+kierunki.db
+kierunki.db-journal
+kopie_zapasowe/
+kierunki_export*.csv
+
+# Artefakty budowania (exe jest publikowany jako plik w Releases)
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.pyc
